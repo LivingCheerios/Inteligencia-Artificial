@@ -13,4 +13,4 @@ La base de datos cuenta con la siguiente información:
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/acc897836c60b749a875c48eb25fea1f7ae9302d/A1.2/A12%20Regresi%C3%B3n%20lineal%20simple.ipynb) 
 - [Reporte en HTML](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/15b1c757192f266c42d00a264988240438442eb1/A1.2/A12%20Regresi%C3%B3n%20lineal%20simple.html)
-- [Base de Datos](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/0bdd6863ae7fadd0431977e75615188f0d48f831/A1.2/A1.2%20Felicidad%20y%20GDP.csv)
+- [Base de Datos](https://raw.githubusercontent.com/LivingCheerios/Inteligencia-Artificial/15b1c757192f266c42d00a264988240438442eb1/A1.2/A1.2%20Felicidad%20y%20GDP.csv)
