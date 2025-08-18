@@ -11,6 +11,6 @@ La base de datos cuenta con la siguiente información:
 * “GDP”. Un número que describe el producto interno bruto.
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte en formato ipynb](A1.1_123456.ipynb) 
+- [Reporte en formato ipynb](A1.2-615152.ipynb) 
 - [Reporte en PDF](A1.1_123456.pdf)  
 - [Reporte en HTML](A1.1_123456.html)  
