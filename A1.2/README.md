@@ -11,7 +11,8 @@ La base de datos cuenta con la siguiente información:
 * “GDP”. Un número que describe el producto interno bruto.
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/acc897836c60b749a875c48eb25fea1f7ae9302d/A1.2/A12%20Regresi%C3%B3n%20lineal%20simple.ipynb) 
+- [Reporte en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A1.2/A12_Regresion_lineal_simple.ipynb?raw=true)
+
 - [Reporte en HTML](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/15b1c757192f266c42d00a264988240438442eb1/A1.2/A12%20Regresi%C3%B3n%20lineal%20simple.html)
 - [Base de datos](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A1.2/A1.2_Felicidad_y_GDP.csv?raw=true)
 
