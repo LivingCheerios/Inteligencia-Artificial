@@ -11,6 +11,6 @@ La base de datos cuenta con la siguiente información:
 * “GDP”. Un número que describe el producto interno bruto.
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte en formato ipynb](A1.2-615152.ipynb) 
+- [Reporte en formato ipynb](https://github.com/LivingCheerios/InteligenciaArtificial/blob/8b1d962b5e0c48ba195b9c37d84577d0b1c2f5c8/A1.2/A12%20Regresi%C3%B3n%20lineal%20simple.ipynb) 
 - [Reporte en PDF](A1.1_123456.pdf)  
 - [Reporte en HTML](A1.1_123456.html)  
