@@ -12,5 +12,5 @@ La base de datos cuenta con la siguiente información:
 
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](https://github.com/LivingCheerios/InteligenciaArtificial/blob/10900ec8941cf2c10707c64f1b4f2ca931a9d805/A1.2/A12%20Regresi%C3%B3n%20lineal%20simple.ipynb) 
-- [Reporte en PDF](A1.1_123456.pdf)  
-- [Reporte en HTML](A1.1_123456.html)  
+- [Reporte en HTML](A1.1_123456.html)
+- - [Base de Datos](A1.1_123456.pdf)  
