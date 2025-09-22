@@ -16,3 +16,8 @@ datos, o de tener que realizar un proceso de selección de características.
 5. Grafica la curva ROC para las probabilidades calculadas en el punto previo y reporta el valor de la AUC.
 
 6. Interpreta los resultados del modelo, describiendo cómo es que cada variable afecta a la salida, en términos de los coeficientes generados.
+
+Este proyecto incluye los siguientes documentos:
+- [Reporte en formato ipynb]()
+- [Reporte en HTML (GitHub Pages)]()  
+- [Base de datos]()
