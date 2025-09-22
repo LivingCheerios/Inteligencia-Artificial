@@ -18,6 +18,6 @@ datos, o de tener que realizar un proceso de selección de características.
 6. Interpreta los resultados del modelo, describiendo cómo es que cada variable afecta a la salida, en términos de los coeficientes generados.
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte en formato ipynb]()
+- [Reporte en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A2.1/A21%20Regresi%C3%B3n%20log%C3%ADstica%20y%20validaci%C3%B3n%20cruzada.ipynb)
 - [Reporte en HTML (GitHub Pages)]()  
 - [Base de datos]()
