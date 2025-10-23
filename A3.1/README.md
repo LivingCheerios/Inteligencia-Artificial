@@ -11,5 +11,5 @@ corresponden a distintos tipos de cáncer. En la actividad se pretende utilizar 
 
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.ipynb)
-- [Reporte en formato html](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.html))
+- [Reporte en formato html](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.html)
 - [Base de datos](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A3.1%20Khan.csv)
