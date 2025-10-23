@@ -7,7 +7,7 @@ corresponden a distintos tipos de cáncer. En la actividad se pretende utilizar 
   
 ## Link al Pages 
 
-[GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.1)  
+[GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.1/index.html)  
 
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.ipynb)
