@@ -14,7 +14,7 @@ Puesto que la el modelo se entrenó con GPU mediante Google Colab, y la implemen
   
 ## Link al Pages 
 
-[GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.1/index.html)  
+[GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.2/)  
 
 Aquí se encuentran los distintos archivos de esta actividad:
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
