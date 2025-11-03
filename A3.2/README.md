@@ -17,12 +17,29 @@ Puesto que la el modelo se entrenó con GPU mediante Google Colab, y la implemen
 [GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.2/)  
 
 Aquí se encuentran los distintos archivos de esta actividad:
+
+**Modelo inicial**
+__________________________________________________________________________________________________________________________________________
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
 - [Reporte para los puntos 1. y 2. en formato HTML]()
+  
+  **Base de 50 dígitos generada**
+__________________________________________________________________________________________________________________________________________
 - [Link a la carpeta con los 50 números generados para el punto 3](https://drive.google.com/drive/folders/1Y2vCwG72Uni0pOohZa4nSDQzrxfROxVn?usp=sharing)
-- [Reporte para el punto 4, y evaluación del 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
-- [Reporte para el punto 4, y evaluación del 5 en formato HTML]()
+
+  **Modelo con mejoras**
+__________________________________________________________________________________________________________________________________________
 - [Reporte para el punto 5. en en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_2.ipynb)
 - [Reporte para el punto 5. en en formato HTML]()
+
+
+ **Evaluación del modelo inicial y el mejorado**
+__________________________________________________________________________________________________________________________________________
+- [Reporte para el punto 4, y evaluación del 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
+- [Reporte para el punto 4, y evaluación del 5 en formato HTML]()
+  
+
+ **Funcionamiento del modelo mejorado en predicciones en tiempo real**
+__________________________________________________________________________________________________________________________________________
 - [Archivo.py donde se implementó el modelo del punto 5 para las predicciones en tiempo real](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/WebcamTest.py)
 - [Link al video del funcionamiento del modelo en predicciones en tiempo real para el punto 6](https://drive.google.com/file/d/1vsfKgqx9-YbhsoxbPL8yydjqdiYi3xBx/view?usp=sharing)
