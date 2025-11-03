@@ -17,5 +17,5 @@ Puesto que la el modelo se entrenó con GPU mediante Google Colab, y la implemen
 [GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.1/index.html)  
 
 Aquí se encuentran los distintos archivos de esta actividad:
-- [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.ipynb)
+- [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
 - [Reporte en formato html](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.html)
