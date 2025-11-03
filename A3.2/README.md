@@ -19,3 +19,4 @@ Puesto que la el modelo se entrenó con GPU mediante Google Colab, y la implemen
 Aquí se encuentran los distintos archivos de esta actividad:
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
 - [Reporte en formato html](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.html)
+- [Link a la carpeta con los 50 números generados para el punto 3](https://drive.google.com/drive/folders/1Y2vCwG72Uni0pOohZa4nSDQzrxfROxVn?usp=sharing)
