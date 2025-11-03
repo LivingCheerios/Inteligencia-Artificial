@@ -11,6 +11,10 @@ Puesto que la el modelo se entrenó con GPU mediante Google Colab, y la implemen
 * El punto 4 será un un archivo .ipynb de Jupyter, donde se implementa el modelo y se observa el desempeño en las 50 imágenes generadas
 * El punto 5 será nuevamente un archivo con las mejoras que se le hicieron al modelo, explicadas en markdown. (formato .ipynb y HTML), y se incluye adicionalmente su desempeño en el mismo archivo para el punto 4.
 * El punto 6 será un archivo .py donde se implenete el modelo con las mejoras del punto 5, pero ahora haciando predicciones en tiempo real utilizando la Webcam del dispositivo, así como el video mostrando su funcionalidad.
+
+## Link al Pages 
+
+[GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.2) 
   
 
 Aquí se encuentran los distintos archivos de esta actividad:
@@ -18,7 +22,7 @@ Aquí se encuentran los distintos archivos de esta actividad:
 **Modelo inicial**
 __________________________________________________________________________________________________________________________________________
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
-- [Reporte para los puntos 1. y 2. en formato HTML](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.html)
+- [Reporte para los puntos 1. y 2. en formato HTML]()
   
   **Base de 50 dígitos generada**
 __________________________________________________________________________________________________________________________________________
@@ -33,7 +37,7 @@ ________________________________________________________________________________
  **Evaluación del modelo inicial y el mejorado**
 __________________________________________________________________________________________________________________________________________
 - [Reporte para el punto 4, y evaluación del 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
-- [Reporte para el punto 4, y evaluación del 5 en formato HTML]()
+- [Reporte para el punto 4, y evaluación del 5 en formato HTML](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.html)
   
 
  **Funcionamiento del modelo mejorado en predicciones en tiempo real**
