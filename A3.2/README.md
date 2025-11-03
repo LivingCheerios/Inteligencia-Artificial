@@ -21,8 +21,9 @@ Aquí se encuentran los distintos archivos de esta actividad:
 
 **Modelo inicial**
 __________________________________________________________________________________________________________________________________________
+- [Reporte para los puntos 1. y 2. en formato HTML (Pages)](A32_1.html)
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
-- [Reporte para los puntos 1. y 2. en formato HTML]()
+
   
   **Base de 50 dígitos generada**
 __________________________________________________________________________________________________________________________________________
@@ -30,14 +31,15 @@ ________________________________________________________________________________
 
   **Modelo con mejoras**
 __________________________________________________________________________________________________________________________________________
+- [Reporte para el punto 5. en en formato HTML](A32_2.html)
 - [Reporte para el punto 5. en en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_2.ipynb)
-- [Reporte para el punto 5. en en formato HTML]()
 
 
  **Evaluación del modelo inicial y el mejorado**
 __________________________________________________________________________________________________________________________________________
-- [Reporte para el punto 4, y evaluación del 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
 - [Reporte para el punto 4, y evaluación del 5 en formato HTML](A32_3.html)
+- [Reporte para el punto 4, y evaluación del 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
+
   
 
  **Funcionamiento del modelo mejorado en predicciones en tiempo real**
