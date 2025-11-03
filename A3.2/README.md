@@ -12,9 +12,6 @@ Puesto que la el modelo se entrenó con GPU mediante Google Colab, y la implemen
 * El punto 5 será nuevamente un archivo con las mejoras que se le hicieron al modelo, explicadas en markdown. (formato .ipynb y HTML), y se incluye adicionalmente su desempeño en el mismo archivo para el punto 4.
 * El punto 6 será un archivo .py donde se implenete el modelo con las mejoras del punto 5, pero ahora haciando predicciones en tiempo real utilizando la Webcam del dispositivo, así como el video mostrando su funcionalidad.
   
-## Link al Pages 
-
-[GitHub Pages](https://livingcheerios.github.io/Inteligencia-Artificial/A3.2/)  
 
 Aquí se encuentran los distintos archivos de esta actividad:
 
