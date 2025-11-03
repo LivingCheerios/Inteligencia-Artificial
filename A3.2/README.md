@@ -18,5 +18,10 @@ Puesto que la el modelo se entrenó con GPU mediante Google Colab, y la implemen
 
 Aquí se encuentran los distintos archivos de esta actividad:
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
-- [Reporte en formato html](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.html)
+- [Reporte para los puntos 1. y 2. en formato HTML](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.1/A31%20SVM%20y%20multiple%20testing%20%20.html)
 - [Link a la carpeta con los 50 números generados para el punto 3](https://drive.google.com/drive/folders/1Y2vCwG72Uni0pOohZa4nSDQzrxfROxVn?usp=sharing)
+- [Reporte para el punto 4, y evaluación del 5 en formato ipynb]()
+- [Reporte para el punto 4, y evaluación del 5 en formato HTML]()
+- [Reporte para el punto 5. en en formato ipynb]()
+- [Reporte para el punto 5. en en formato HTML]()
+- [Link al video del funcionamiento del modelo en predicciones en tiempo real para el punto 6](https://drive.google.com/file/d/1vsfKgqx9-YbhsoxbPL8yydjqdiYi3xBx/view?usp=sharing)
