@@ -18,7 +18,7 @@ Aquí se encuentran los distintos archivos de esta actividad:
 **Modelo inicial**
 __________________________________________________________________________________________________________________________________________
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
-- [Reporte para los puntos 1. y 2. en formato HTML]()
+- [Reporte para los puntos 1. y 2. en formato HTML](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.html)
   
   **Base de 50 dígitos generada**
 __________________________________________________________________________________________________________________________________________
