@@ -24,5 +24,5 @@ Aquí se encuentran los distintos archivos de esta actividad:
 - [Reporte para el punto 4, y evaluación del 5 en formato HTML]()
 - [Reporte para el punto 5. en en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_2.ipynb)
 - [Reporte para el punto 5. en en formato HTML]()
-- [Archivo.py donde se implementó el modelo del punto 5 para las predicciones en tiempo real]()
+- [Archivo.py donde se implementó el modelo del punto 5 para las predicciones en tiempo real](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/WebcamTest.py)
 - [Link al video del funcionamiento del modelo en predicciones en tiempo real para el punto 6](https://drive.google.com/file/d/1vsfKgqx9-YbhsoxbPL8yydjqdiYi3xBx/view?usp=sharing)
