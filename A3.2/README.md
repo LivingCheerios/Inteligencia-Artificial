@@ -37,7 +37,7 @@ ________________________________________________________________________________
  **Evaluación del modelo inicial y el mejorado**
 __________________________________________________________________________________________________________________________________________
 - [Reporte para el punto 4, y evaluación del 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
-- [Reporte para el punto 4, y evaluación del 5 en formato HTML](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.html)
+- [Reporte para el punto 4, y evaluación del 5 en formato HTML](A32_3.html)
   
 
  **Funcionamiento del modelo mejorado en predicciones en tiempo real**
