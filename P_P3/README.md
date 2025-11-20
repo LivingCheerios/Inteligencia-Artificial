@@ -28,10 +28,6 @@ ________________________________________________________________________________
 - [Reporte para los puntos 1. y 2. en formato HTML](Modelo1.html)
 - [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/P_P3/Modelo1.ipynb)
 
-  
-  **Base de imágenes utilizada**
-__________________________________________________________________________________________________________________________________________
-- [Link a la carpeta con la base de datos](https://drive.google.com/drive/folders/1RKfdeZpSp69w5gLsqeqYNoIpCxmUJjHl?usp=sharing)
 
   **Modelos con Modificaciones y evaluación del mejor modelo**
 __________________________________________________________________________________________________________________________________________
@@ -51,3 +47,7 @@ ________________________________________________________________________________
 **Archivo para clasificaciónes en tiempo real con OCR**
 _____________________________________________________________________________________________
 - [Reporte para el punto 5 en formato HTML](A32_3.html)
+
+ **Base de imágenes utilizada y link a videos de evidencia**
+__________________________________________________________________________________________________________________________________________
+- [Link a la carpeta con la base de datos](https://drive.google.com/drive/folders/1RKfdeZpSp69w5gLsqeqYNoIpCxmUJjHl?usp=sharing)
