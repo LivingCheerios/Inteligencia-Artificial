@@ -42,11 +42,11 @@ ________________________________________________________________________________
 
 **Archivo para clasificaciónes en tiempo real**
 _____________________________________________________________________________________________
-- [Reporte para el punto 5 en formato HTML](A32_3.html)
+- [Archivo .py ](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/P_P3/Webcam.py)
 
 **Archivo para clasificaciónes en tiempo real con OCR**
 _____________________________________________________________________________________________
-- [Reporte para el punto 5 en formato HTML](A32_3.html)
+- [Archivo del OCR en formato .py](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/P_P3/OCR.py)
 
  **Base de imágenes utilizada y link a videos de evidencia**
 __________________________________________________________________________________________________________________________________________
