@@ -25,22 +25,29 @@ Aquí se encuentran los distintos archivos de esta actividad:
 
 **Modelo inicial**
 __________________________________________________________________________________________________________________________________________
-- [Reporte para los puntos 1. y 2. en formato HTML](A32_1.html)
-- [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_1.ipynb)
+- [Reporte para los puntos 1. y 2. en formato HTML](Modelo1.html)
+- [Reporte para los puntos 1. y 2. en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/P_P3/Modelo1.ipynb)
 
   
-  **Base de 50 dígitos generada**
+  **Base de imágenes utilizada**
 __________________________________________________________________________________________________________________________________________
-- [Link a la carpeta con los 50 números generados para el punto 3](https://drive.google.com/drive/folders/1Y2vCwG72Uni0pOohZa4nSDQzrxfROxVn?usp=sharing)
+- [Link a la carpeta con la base de datos](https://drive.google.com/drive/folders/1RKfdeZpSp69w5gLsqeqYNoIpCxmUJjHl?usp=sharing)
 
-  **Modelo con mejoras**
+  **Modelos con Modificaciones y evaluación del mejor modelo**
 __________________________________________________________________________________________________________________________________________
-- [Reporte para el punto 5. en en formato HTML](A32_2.html)
-- [Reporte para el punto 5. en en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_2.ipynb)
+- [Reporte para el punto 3 y 4 en en formato HTML](Models2_6.html)
+- [Reporte para el punto 3 y 4 en en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/P_P3/Models2_6.ipynb)
 
 
- **Evaluación del modelo inicial y el mejorado**
+ **Evaluación del modelo entrenado con todas las imágenes**
 __________________________________________________________________________________________________________________________________________
-- [Reporte para el punto 4, y evaluación del 5 en formato HTML](A32_3.html)
-- [Reporte para el punto 4, y evaluación del 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
+- [Reporte para el punto 5 en formato HTML](A32_3.html)
+- [Reporte para el punto 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
 
+**Archivo para clasificaciónes en tiempo real**
+_____________________________________________________________________________________________
+- [Reporte para el punto 5 en formato HTML](A32_3.html)
+
+**Archivo para clasificaciónes en tiempo real con OCR**
+_____________________________________________________________________________________________
+- [Reporte para el punto 5 en formato HTML](A32_3.html)
