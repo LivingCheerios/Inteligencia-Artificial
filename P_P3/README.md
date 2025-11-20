@@ -37,8 +37,8 @@ ________________________________________________________________________________
 
  **Evaluación del modelo entrenado con todas las imágenes**
 __________________________________________________________________________________________________________________________________________
-- [Reporte para el punto 5 en formato HTML](A32_3.html)
-- [Reporte para el punto 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/A3.2/A32_3.ipynb)
+- [Reporte para el punto 5 en formato HTML](Best_model.html)
+- [Reporte para el punto 5 en formato ipynb](https://github.com/LivingCheerios/Inteligencia-Artificial/blob/main/P_P3/Best_model.ipynb)
 
 **Archivo para clasificaciónes en tiempo real**
 _____________________________________________________________________________________________
